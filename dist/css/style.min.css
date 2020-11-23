@@ -1,0 +1,1 @@
+.grid-parent{display:grid;grid-template-columns:200px 200px 200px;gap:10px}@media (max-width: 15em){.grid-parent{grid-template-columns:1fr}}
